@@ -13,7 +13,7 @@ toc: true
 เทสจ้าาาาา
 
 
-!![Image Description](/images/Pasted%20image%2020241206211504.png)
+![[Pasted image 20241206230552.png]]
 
 
 ctestestestests
