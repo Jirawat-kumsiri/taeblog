@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Names on Teiiz</title>
-    <link>http://localhost:1313/tags/names/</link>
+    <link>https://teiiz.com/tags/names/</link>
     <description>Recent content in Names on Teiiz</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Athul</copyright>
     <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/names/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://teiiz.com/tags/names/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Title of the post</title>
-      <link>http://localhost:1313/posts/test-obsidian/</link>
+      <link>https://teiiz.com/posts/test-obsidian/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test-obsidian/</guid>
-      <description>&lt;p&gt;เทสจ้าาาาา&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;http://localhost:1313/images/Pasted%20image%2020241206211504.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;ctestestestests&lt;/p&gt;</description>
+      <guid>https://teiiz.com/posts/test-obsidian/</guid>
+      <description>&lt;p&gt;เทสจ้าาาาา&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;https://teiiz.com/images/Pasted%20image%2020241206211504.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;ctestestestests&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
