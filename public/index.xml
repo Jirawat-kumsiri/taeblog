@@ -14,7 +14,7 @@
       <link>//localhost:1313/posts/test-obsidian/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/test-obsidian/</guid>
-      <description>&lt;p&gt;เทสจ้าาาาา&#xA;!&lt;img src=&#34;//localhost:1313/images/Pasted%20image%2020241206211504.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;เทสจ้าาาาา&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/Pasted%20image%2020241206211504.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;ctestestestests&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
