@@ -1,3 +1,12 @@
+---
+title: 5 Automations You Can Sell Today For $1,500 To $10,000 (Copy)
+description:
+date: 2024-12-06
+tldr: 
+draft: false
+tags: one person business
+toc: true
+---
 # SUMMARY:
 Nick shares insights on building and selling high-ROI automation systems for small to medium businesses, earning $300K in three months using make.com.
 

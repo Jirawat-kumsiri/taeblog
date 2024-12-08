@@ -1,3 +1,13 @@
+---
+title: James Bach Why Testers Matter. Reasserting our role in the AI DevOps era
+description: 
+date: 2024-12-06
+tldr: 
+draft: false
+tags:
+  - software testing
+toc: true
+---
 ## SUMMARY
 James Bach, testing expert, discusses the value of skilled testers in an AI-driven world, emphasizing the necessity for critical thinking, empirical approaches, and independent roles in software testing.
 

@@ -1,3 +1,13 @@
+---
+title: LEADERSHIP LAB The Craft of Writing Effectively
+description: 
+date: 2024-12-06
+tldr: 
+draft: false
+tags:
+  - one person business
+toc: true
+---
 # SUMMARY
 Larry McEnerney, University of Chicago Writing Program director, discusses effective academic writing, emphasizing reader-centric value over rule-based structure and focusing on creating knowledge valued by specific audiences.
 

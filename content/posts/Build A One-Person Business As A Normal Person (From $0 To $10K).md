@@ -1,3 +1,13 @@
+---
+title: Build A One-Person Business As A Normal Person (From $0 To $10K)
+description: 
+date: 2024-12-06
+tldr: 
+draft: false
+tags:
+  - software testing
+toc: true
+---
 # SUMMARY
 Dan explains the one-person business model, emphasizing its accessibility for beginners, leveraging existing skills, and providing scalable income potential without upfront capital.
 

@@ -1,3 +1,12 @@
+---
+title: You Won’t Be The Same Person In 6 Months (Master Anything, Fast)
+description:
+date: 2024-12-06
+tldr: 
+draft: false
+tags: one person business
+toc: true
+---
 ### SUMMARY
 
 - Speaker critiques societal conditioning, emphasizing conscious goal-setting and personal development to achieve success, identity evolution, and fulfillment in life.

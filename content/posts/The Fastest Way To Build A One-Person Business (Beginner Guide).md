@@ -1,3 +1,12 @@
+---
+title: The Fastest Way To Build A One-Person Business (Beginner Guide)
+description:
+date: 2024-12-06
+tldr: 
+draft: false
+tags: one person business
+toc: true
+---
 ## SUMMARY
 This is a comprehensive guide to earning your first $1,000 in 60 days as a one-person business, focusing on building an audience, crafting offers, and leveraging social media.
 

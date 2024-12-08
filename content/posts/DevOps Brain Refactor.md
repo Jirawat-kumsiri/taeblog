@@ -1,3 +1,13 @@
+---
+title: DevOps Brain Refactor
+description: 
+date: 2024-12-06
+tldr: 
+draft: false
+tags:
+  - software testing
+toc: true
+---
 # SUMMARY
 Dagna, an engineer-turned-coach, discusses her book *Brain Refactor*, offering strategies for overcoming mental blocks, burnout, imposter syndrome, and self-marketing challenges in tech careers.
 

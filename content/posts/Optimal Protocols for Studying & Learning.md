@@ -1,3 +1,13 @@
+---
+title: Optimal Protocols for Studying & Learning
+description: 
+date: 2024-12-06
+tldr: 
+draft: false
+tags:
+  - one person business
+toc: true
+---
 # Summary
 
 Andrew Huberman, Stanford neurobiologist and host of the Huberman Lab Podcast, explores the science of studying and learning effectively. He emphasizes actionable, research-based strategies to enhance learning by counteracting forgetting.

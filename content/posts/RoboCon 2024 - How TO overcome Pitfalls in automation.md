@@ -1,12 +1,11 @@
 ---
-title: Title of the post
+title: RoboCon 2024 - How TO overcome Pitfalls in automation
 description: 
-date: 2024-11-06
+date: 2024-12-06
 tldr: 
 draft: false
 tags:
-  - tag
-  - names
+  - robot framework
 toc: true
 ---
 ## SUMMARY

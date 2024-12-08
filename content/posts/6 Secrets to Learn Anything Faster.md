@@ -1,3 +1,12 @@
+---
+title: 6 Secrets to Learn Anything Faster
+description:
+date: 2024-12-06
+tldr: 
+draft: false
+tags: one person business
+toc: true
+---
 ### SUMMARY:
 Jim Kwik, a brain coach, discusses practical strategies to enhance memory, focus, and learning speed, emphasizing the link between physical movement, mindset, and brain performance.
 
