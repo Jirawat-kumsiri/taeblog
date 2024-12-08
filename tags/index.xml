@@ -7,20 +7,27 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Athul</copyright>
-    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://teiiz.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Names</title>
-      <link>https://teiiz.com/tags/names/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://teiiz.com/tags/names/</guid>
+      <title>One Person Business</title>
+      <link>https://teiiz.com/tags/one-person-business/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://teiiz.com/tags/one-person-business/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tag</title>
-      <link>https://teiiz.com/tags/tag/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://teiiz.com/tags/tag/</guid>
+      <title>Robot Framework</title>
+      <link>https://teiiz.com/tags/robot-framework/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://teiiz.com/tags/robot-framework/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software Testing</title>
+      <link>https://teiiz.com/tags/software-testing/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://teiiz.com/tags/software-testing/</guid>
       <description></description>
     </item>
   </channel>
